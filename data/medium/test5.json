@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {"id": 0, "cpu_req": 0.9, "memory_req": 1.0, "network_req": 10.0, "execution_time": 15.0},
+    {"id": 1, "cpu_req": 1.3, "memory_req": 2.0, "network_req": 15.0, "execution_time": 25.0},
+    {"id": 2, "cpu_req": 1.1, "memory_req": 1.5, "network_req": 12.0, "execution_time": 18.0},
+    {"id": 3, "cpu_req": 0.7, "memory_req": 1.0, "network_req": 8.0, "execution_time": 20.0},
+    {"id": 4, "cpu_req": 1.4, "memory_req": 2.5, "network_req": 20.0, "execution_time": 35.0},
+    {"id": 5, "cpu_req": 0.6, "memory_req": 1.2, "network_req": 9.0, "execution_time": 22.0},
+    {"id": 6, "cpu_req": 0.8, "memory_req": 1.1, "network_req": 12.0, "execution_time": 24.0},
+    {"id": 7, "cpu_req": 1.4, "memory_req": 1.2, "network_req": 11.0, "execution_time": 25.0}
+  ],
+  "nodes": [
+    {"id": 0, "cpu_capacity": 4, "memory_capacity": 6, "network_capacity": 50},
+    {"id": 1, "cpu_capacity": 3, "memory_capacity": 8, "network_capacity": 60},
+    {"id": 2, "cpu_capacity": 3, "memory_capacity": 5, "network_capacity": 55},
+    {"id": 3, "cpu_capacity": 3, "memory_capacity": 6, "network_capacity": 50}
+  ]
+}
+

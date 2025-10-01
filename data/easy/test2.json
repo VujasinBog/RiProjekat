@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {"id": 0, "cpu_req": 0.5, "memory_req": 1.0, "network_req": 10.0, "execution_time": 15.0},
+    {"id": 1, "cpu_req": 0.7, "memory_req": 1.5, "network_req": 20.0, "execution_time": 25.0},
+    {"id": 2, "cpu_req": 0.6, "memory_req": 0.5, "network_req": 5.0, "execution_time": 10.0}
+  ],
+  "nodes": [
+    {"id": 0, "cpu_capacity": 2, "memory_capacity": 4, "network_capacity": 50},
+    {"id": 1, "cpu_capacity": 2, "memory_capacity": 4, "network_capacity": 50}
+  ]
+}
+
